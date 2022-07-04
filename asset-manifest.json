@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.js": "/mariport/static/js/main.713aec52.js",
+    "static/js/787.be55e6d0.chunk.js": "/mariport/static/js/787.be55e6d0.chunk.js",
+    "index.html": "/mariport/index.html",
+    "main.713aec52.js.map": "/mariport/static/js/main.713aec52.js.map",
+    "787.be55e6d0.chunk.js.map": "/mariport/static/js/787.be55e6d0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.713aec52.js"
+  ]
+}
