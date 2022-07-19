@@ -1,12 +1,13 @@
 {
   "files": {
-    "main.js": "/mariport/static/js/main.724d5510.js",
+    "main.js": "/mariport/static/js/main.fca700a7.js",
     "static/js/787.be55e6d0.chunk.js": "/mariport/static/js/787.be55e6d0.chunk.js",
+    "static/media/photo.home.png": "/mariport/static/media/photo.home.e79c96cde29fb02711b5.png",
     "index.html": "/mariport/index.html",
-    "main.724d5510.js.map": "/mariport/static/js/main.724d5510.js.map",
+    "main.fca700a7.js.map": "/mariport/static/js/main.fca700a7.js.map",
     "787.be55e6d0.chunk.js.map": "/mariport/static/js/787.be55e6d0.chunk.js.map"
   },
   "entrypoints": [
-    "static/js/main.724d5510.js"
+    "static/js/main.fca700a7.js"
   ]
 }
