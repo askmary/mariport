@@ -1,15 +1,22 @@
 {
   "files": {
-    "main.js": "/mariport/static/js/main.e5dce1ff.js",
+    "main.js": "/mariport/static/js/main.6bf63321.js",
     "static/js/787.be55e6d0.chunk.js": "/mariport/static/js/787.be55e6d0.chunk.js",
     "static/media/photo.about(2).jpg": "/mariport/static/media/photo.about(2).55bdc8085572c35c98fb.jpg",
     "static/media/photo.about.jpg": "/mariport/static/media/photo.about.d51d001b7b81a87e9e30.jpg",
+    "static/media/Star-Wars.png": "/mariport/static/media/Star-Wars.cf0200a62fa3773a4ccd.png",
+    "static/media/ToDoFlix.png": "/mariport/static/media/ToDoFlix.4549bc1790e20d990498.png",
+    "static/media/Frida-Kahlo.png": "/mariport/static/media/Frida-Kahlo.641903bf1ccb39a5c711.png",
+    "static/media/BeHappy.png": "/mariport/static/media/BeHappy.61a7a18230fa53efedab.png",
     "static/media/photo.home.png": "/mariport/static/media/photo.home.e79c96cde29fb02711b5.png",
+    "static/media/Timer.png": "/mariport/static/media/Timer.aa1bc0d6741b4193e1a4.png",
+    "static/media/xfilmes.png": "/mariport/static/media/xfilmes.c140204ca8775ca0f11d.png",
+    "static/media/Calculadora.png": "/mariport/static/media/Calculadora.a7f8ff65d1b119e5b3dc.png",
     "index.html": "/mariport/index.html",
-    "main.e5dce1ff.js.map": "/mariport/static/js/main.e5dce1ff.js.map",
+    "main.6bf63321.js.map": "/mariport/static/js/main.6bf63321.js.map",
     "787.be55e6d0.chunk.js.map": "/mariport/static/js/787.be55e6d0.chunk.js.map"
   },
   "entrypoints": [
-    "static/js/main.e5dce1ff.js"
+    "static/js/main.6bf63321.js"
   ]
 }
