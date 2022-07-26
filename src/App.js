@@ -9,6 +9,7 @@ const GlobalStyle = createGlobalStyle`
     box-sizing:border-box;
     color:white;
     font-family: 'Fira Sans Extra Condensed', sans-serif;
+    text-decoration:none;
   }
   body{
     width:100%;
