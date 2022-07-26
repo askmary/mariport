@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.js": "/mariport/static/js/main.6bf63321.js",
+    "main.js": "/mariport/static/js/main.e7a58500.js",
     "static/js/787.be55e6d0.chunk.js": "/mariport/static/js/787.be55e6d0.chunk.js",
     "static/media/photo.about(2).jpg": "/mariport/static/media/photo.about(2).55bdc8085572c35c98fb.jpg",
     "static/media/photo.about.jpg": "/mariport/static/media/photo.about.d51d001b7b81a87e9e30.jpg",
@@ -11,12 +11,13 @@
     "static/media/photo.home.png": "/mariport/static/media/photo.home.e79c96cde29fb02711b5.png",
     "static/media/Timer.png": "/mariport/static/media/Timer.aa1bc0d6741b4193e1a4.png",
     "static/media/xfilmes.png": "/mariport/static/media/xfilmes.c140204ca8775ca0f11d.png",
+    "static/media/ods.png": "/mariport/static/media/ods.19cf655345f983a87d52.png",
     "static/media/Calculadora.png": "/mariport/static/media/Calculadora.a7f8ff65d1b119e5b3dc.png",
     "index.html": "/mariport/index.html",
-    "main.6bf63321.js.map": "/mariport/static/js/main.6bf63321.js.map",
+    "main.e7a58500.js.map": "/mariport/static/js/main.e7a58500.js.map",
     "787.be55e6d0.chunk.js.map": "/mariport/static/js/787.be55e6d0.chunk.js.map"
   },
   "entrypoints": [
-    "static/js/main.6bf63321.js"
+    "static/js/main.e7a58500.js"
   ]
 }
